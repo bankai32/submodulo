@@ -25,3 +25,5 @@ Git Rebase [Commit/Rama] => Repite los Commits a partir de un punto indicado y l
 asdasdasd
 
 asdasdasdasdasdasdadasd
+
+codigo corrupto
